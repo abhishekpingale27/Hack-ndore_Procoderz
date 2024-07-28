@@ -32,12 +32,6 @@ Municipal corporations often face numerous challenges in managing workshops that
 - Intuitive and accessible design.
 - Responsive on mobile devices, allowing task management on the go.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/workshop-management-system.git
-   cd workshop-management-system
 Employee Management: View and update personal profiles and performance metrics.
 Task Schedule: View task schedules and update task statuses for accurate tracking.
 Progress Tracker: View progress of assigned tasks, report on them, and contribute to continuous monitoring and improvement.
