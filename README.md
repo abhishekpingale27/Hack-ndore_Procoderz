@@ -31,11 +31,3 @@ Municipal corporations often face numerous challenges in managing workshops that
 ### User-Friendly Interface
 - Intuitive and accessible design.
 - Responsive on mobile devices, allowing task management on the go.
-
-Employee Management: View and update personal profiles and performance metrics.
-Task Schedule: View task schedules and update task statuses for accurate tracking.
-Progress Tracker: View progress of assigned tasks, report on them, and contribute to continuous monitoring and improvement.
-User-Friendly Interface
-Intuitive and accessible design.
-Responsive on mobile devices, allowing task management on the go.
-
